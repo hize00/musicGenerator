@@ -1,0 +1,7 @@
+music21
+keras
+tensorflow
+h5py
+numpy
+matplotlib
+pygame
